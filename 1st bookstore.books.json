@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "658c4e380db82abf1372e2d2"
+  },
+  "title": "Book Name 1",
+  "author": "Author Name 1",
+  "publish_year": 2001,
+  "pages": 301,
+  "rating": 8.1,
+  "user_bought": [
+    {
+      "name": "First User Buy",
+      "phone": "+91 1233210000",
+      "email": "1stuser@gmail.com",
+      "pin_code": 7214301,
+      "purchase_date": "2023 - 12 - 27"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658c4e380db82abf1372e2d3"
+  },
+  "title": "Book Name 2",
+  "author": "Author Name 2",
+  "publish_year": 2002,
+  "pages": 302,
+  "rating": 8.1,
+  "user_bought": [
+    {
+      "name": "Secpmd User Buy",
+      "phone": "+91 1233210002",
+      "email": "2nduser@gmail.com",
+      "pin_code": 7214302,
+      "purchase_date": "2023 - 12 - 27"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658c4e380db82abf1372e2d4"
+  },
+  "title": "Book Name 3",
+  "author": "Author Name 3",
+  "publish_year": 2003,
+  "pages": 303,
+  "rating": 8.1,
+  "user_bought": [
+    {
+      "name": "Third User Buy",
+      "phone": "+91 1233210003",
+      "email": "3rduser@gmail.com",
+      "pin_code": 7214303,
+      "purchase_date": "2023 - 12 - 27"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658c4e380db82abf1372e2d5"
+  },
+  "title": "Book Name 4",
+  "author": "Author Name 4",
+  "publish_year": 2004,
+  "pages": 304,
+  "rating": 8.1,
+  "user_bought": [
+    {
+      "name": "Fourth User Buy",
+      "phone": "+91 1233210004",
+      "email": "4thuser@gmail.com",
+      "pin_code": 7214304,
+      "purchase_date": "2023 - 12 - 27"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "658c4e380db82abf1372e2d6"
+  },
+  "title": "Book Name 5",
+  "author": "Author Name 5",
+  "publish_year": 2005,
+  "pages": 305,
+  "rating": 8.1,
+  "user_bought": [
+    {
+      "name": "Fifth User Buy",
+      "phone": "+91 1233210005",
+      "email": "5thuser@gmail.com",
+      "pin_code": 7214305,
+      "purchase_date": "2023 - 12 - 27"
+    }
+  ]
+}]
